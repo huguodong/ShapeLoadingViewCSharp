@@ -1,0 +1,15 @@
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\bin\Debug\ShapeLoadingViewCSharp.dll
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\bin\Debug\ShapeLoadingViewCSharp.pdb
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\bin\Debug\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\bin\Debug\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp-Signed.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\ShapeLoadingViewCSharp.csprojResolveAssemblyReference.cache
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\ShapeLoadingViewCSharp.dll
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\ShapeLoadingViewCSharp.pdb
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\android\bin\ShapeLoadingViewCSharp.ShapeLoadingViewCSharp.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\res\values\strings.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\res\drawable\shadow.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\res\layout\loadview.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\res\values\attr.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\res\values\color.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\R.cs.flag
+E:\xamarin\ShapeLoadingViewCSharp-master\ShapeLoadingViewCSharp\obj\Debug\uploadflags.txt

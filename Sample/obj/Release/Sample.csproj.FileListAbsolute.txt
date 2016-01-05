@@ -1,0 +1,17 @@
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\Sample.dll
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\Sample.pdb
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\Sample.Sample.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\Sample.Sample-Signed.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\ShapeLoadingViewCSharp.dll
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\ShapeLoadingViewCSharp.pdb
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\Sample.csprojResolveAssemblyReference.cache
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\Sample.dll
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\Sample.pdb
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\android\bin\Sample.Sample.apk
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\res\layout\main.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\res\values\strings.xml
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\res\drawable\icon.png
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\R.cs.flag
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\uploadflags.txt
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\obj\Release\Sample.dll.mdb
+E:\xamarin\ShapeLoadingViewCSharp-master\Sample\bin\Release\Sample.dll.mdb
